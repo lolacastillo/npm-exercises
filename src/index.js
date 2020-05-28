@@ -1,4 +1,4 @@
-import {niceMsg} from './say-hello.js';
+import {niceMsg} from './say-hello.js                                                                                                             ';
 const $ = require('jquery');
 
 var sayHello= () => console.log('hello!');
